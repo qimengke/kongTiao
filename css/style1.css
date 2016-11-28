@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+.margin{width:1026px;margin:0 auto;}
+#head{height:106px;}
+#head .margin{height:100%;position:relative;}
+#head .margin img.fir{width:340px;height:56px;margin-top:17px;margin-right:70px;}
+#head .margin .input{width:616px;height:28px;margin-top:58px;}
+#head .margin .input span.name{display:inline-block;font:12px/28px "";height:28px;color:#3c3c3c;}
+#head .margin .input span.key{display:inline-block;font:12px/28px "";height:28px;color:#3c3c3c;}
+#head .margin .input input{width:140px;height:23px;border:1px solid #e8e8e8;}
+#head .margin .input a.deng{display:inline-block;margin-left:5px;width:108px;height:38px;background:#89b73a;font:12px/38px "";color:#FFF;text-align:center;}
+#head .margin .input a.shen{display:inline-block;margin-left:4px;width:106px;height:36px;background:#529ad5;font:12px/36px "";color:#FFF;text-align:center;}
+#head .margin .dao{width:280px;height:40px;margin-top:0;position:absolute;top:0;right:0;}
+#head .margin .dao a{display:inline-block;width:66px;height:40px;text-align:center;font:12px/40px "";color:#3c3c3c;background:url(../images/i2.jpg)no-repeat right;}
+#head .margin .dao a.fin{background:none;}
+#nav{height:46px;background:#b8d1e8;}
+#nav .margin{height:100%;position:relative;}
+#nav .margin a{display:inline-block;margin-left:26px;font:14px/46px "";height:46px;color:#131518;}
+#nav .margin a:hover{background:#F00;color:#FFF;}
+#nav .margin a.fir{margin-left:10px;}
+#nav .margin .tu{position:absolute;right:0;top:6px;}
+#banner{height:424px;margin-top:18px;}
+#banner .margin{height:100%;border-top:1px solid #d8dffa;background:url(../images/i4.jpg)no-repeat;}
+#main{height:1102px;}
+#main .margin{height:1102px;}
+#main .margin .fir{margin-top:46px;width:316px;height:226px;}
+#main .margin .fir .fir_1{height:31px;width:286px;border-bottom:1px solid #dfdfdf;margin-bottom:14px;}
+#main .margin .fir .fir_1 .dong{font:12px/30px "";height:30px;color:#333333;border-bottom:1px solid #4196dd;}
+#main .margin .fir .fir_1 .dyn{font:10px/30px "";height:30px;color:#22226c;border-bottom:1px solid #4196dd;}
+#main .margin .fir .fir_1 .more{width:50px;height:16px;border:1px solid #dfdfdf;margin-top:4px;}
+#main .margin .fir ul{width:306px;height:178px;margin-left:12px;border-right:1px dashed #dfdfdf;}
+#main .margin .fir ul li{width:274px;background:url(../images/i5.jpg)no-repeat left;}
+#main .margin .fir ul li a{font:12px/26px "";height:27px;color:#666666;margin-left:8px;}
+#main .margin .sec{margin-top:46px;width:316px;height:226px;margin-left:36px;}
+#main .margin .sec .sec_1{height:31px;width:286px;border-bottom:1px solid #dfdfdf;margin-bottom:14px;}
+#main .margin .sec .sec_1 .dong{font:12px/30px "";height:30px;color:#333333;border-bottom:1px solid #4196dd;}
+#main .margin .sec .sec_1 .dyn{font:10px/30px "";height:30px;color:#22226c;border-bottom:1px solid #4196dd;}
+#main .margin .sec .sec_1 .more{width:50px;height:16px;border:1px solid #dfdfdf;margin-top:4px;}
+#main .margin .sec ul{width:306px;height:178px;margin-left:12px;border-right:1px dashed #dfdfdf;}
+#main .margin .sec ul li{width:274px;background:url(../images/i5.jpg)no-repeat left;}
+#main .margin .sec ul li a{font:12px/26px "";height:27px;color:#666666;margin-left:8px;}
+#main .margin .thi{width:690px;height:220px;margin-left:18px;margin-top:50px;}
+#main .margin .thi img{width:690px;height:220px;}
+#foot{height:232px;border-top:1px solid #ebebeb;background:#ebf0ff;}
+#foot .margin{height:100%;}
+#foot .margin  .fir_1{height:28px;width:1024px;border-bottom:1px solid #dfdfdf;margin-top:20px;margin-bottom:16px;}
+#foot .margin  .fir_1 .dong{font:17px/26px "";height:26px;color:#333333;border-bottom:1px solid #4196dd;}
+#foot .margin  .fir_1 .dyn{font:10px/26px "";height:26px;color:#22226c;border-bottom:1px solid #4196dd;}
+#foot .margin .sec{width:100%;height:56px;}
+#foot .margin .sec .sec_1{display:inline-block;width:44px;height:44px;background:#addafe;color:#FFF;font:16px/44px "";text-align:center;}
+#foot .margin .sec .sec_2 img{display:inline-block;width:147px;height:57px;margin-left:40px;}
+#foot .margin .sec .sec_3 img{display:inline-block;width:147px;height:57px;margin-left:26px;}
+#foot .margin .sec a.fin{display:inline-block;margin-left:25px;}
+#foot .margin .thi{margin-top:34px;width:100%;}
+#foot .margin .thi span{font:12px/20px "";height:20px;color:#707070;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
